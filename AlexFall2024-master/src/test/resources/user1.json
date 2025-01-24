@@ -1,0 +1,12 @@
+{
+  "login": "test_test@test.test",
+  "password": "12345",
+  "firstName": "Alex",
+  "lastName": "Leo",
+  "country": "US",
+  "address": "Any st",
+  "town": "San Fran",
+  "state": "CA",
+  "zipCode": "98345"
+}
+
